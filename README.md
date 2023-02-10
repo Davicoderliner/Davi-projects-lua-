@@ -1,1 +1,1 @@
-This is a fucked project I'm fuck made 
+Project by huseyn and Davi scripts 
