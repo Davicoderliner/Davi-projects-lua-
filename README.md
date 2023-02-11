@@ -1,1 +1,1 @@
-Project by huseyn and Davi scripts 
+This is a project of Lua pack of Davi scripts 
